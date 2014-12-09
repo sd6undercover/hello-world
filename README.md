@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Test repository
+Hello All
+
+I'm learning to use GitHub - it's great so far
